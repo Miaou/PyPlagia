@@ -1,0 +1,17 @@
+# Merci de ne pas mettre en ligne les codes des élèves, ce serait une faute, car ces données leur appartiennent...
+codesEleves*/
+codesEleves.zip
+
+# Merci de ne pas mettre en ligne les résultats du détecteur de plagiat, pour les mêmes raisons...
+*.db
+
+# Merci de garder exclus les doc trop précises (en particulier les slides)
+doc/UserGuide*
+
+# Je pense qu'il est bon de laisser les références biblio.
+
+# Pour les trucs plus classiques, ne pas laisser de fichiers compilés, fichiés objets, cache Python...
+**/*.o
+**/*.dll
+**/*.so
+**/__pycache__/

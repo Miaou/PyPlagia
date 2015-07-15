@@ -1,0 +1,9 @@
+http://www.cs.usask.ca/~croy/papers/2009/RCK_SCP_Clones.pdf, p29
+Karp-Rabin string matching
+court --> http://bigfoot.cs.upt.ro/~marius/papers/syrcose08.pdf
+https://cis.uab.edu/softcom/phoenix/acmse-2006.pdf
+file:///C:/Users/Brameret/Downloads/Identifying_Syntactic_Differences_Between_Two_Programs.pdf
+http://drops.dagstuhl.de/volltexte/2008/1678/pdf/08261.EvansWilliam.Paper.1678.pdf
+
+L. Jiang, G. Misherghi, Z. Su and S. Glondu, DECKARD: Scalable and Accurate Tree-based Detection of Code
+Clones
